@@ -51,7 +51,7 @@ Recursively checks if each character in the string is digit until the end of it,
 
 9.
 
-Recursively 
+Recursively adds 1 until the end of the string to find number of characters in it.
 
 <img width="760" height="437" alt="image" src="https://github.com/user-attachments/assets/fc7b2cbc-eaee-4e82-8958-aafbec127cd0" />
 
