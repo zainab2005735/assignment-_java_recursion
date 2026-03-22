@@ -51,7 +51,13 @@ Recursively checks if each character in the string is digit until the end of it,
 
 9.
 
-
+Recursively 
 
 <img width="760" height="437" alt="image" src="https://github.com/user-attachments/assets/fc7b2cbc-eaee-4e82-8958-aafbec127cd0" />
+
+10.
+
+Recursively replaces the numerator and denominator with previous denominator and remainder respectively until the remainder becomes 0, meaning the current numerator is the gcd.
+
+<img width="1024" height="371" alt="image" src="https://github.com/user-attachments/assets/070eab80-b0de-40ec-8aef-a6635ebcfda7" />
 
